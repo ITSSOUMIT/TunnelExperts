@@ -67,7 +67,7 @@
 			    							<div class="services-titles">
 			    								<h3 class="title"><a href="#">Highways and Roads</a></h3>
 			    							</div>
-			    							<!-- <p class="services-txt">Our innovative Products and Services are designed and applied to give ever lasting foundation to every road, tunnel and highway project.</p> -->
+			    							<p class="services-txt">Our innovative Products and Services are designed and applied to give everlasting foundation to every road and highway project.</p>
 			    						</div>
 			    					</div>
 			    					<div class="normarl-text-area">
@@ -95,10 +95,7 @@
 			    							<div class="services-titles">
 			    								<h3 class="title"><a href="#">Tunnels</a></h3>
 			    							</div>
-			    							<!-- <p class="services-txt">Non-Woven Geo Textile & Geo Membranes supplied by Manas are used in Tunnel Lining & Provide Excellent Drainage of Water into the side ditches.</p> -->
-			    							<!-- <div class="services-btn">
-			    								<a class="btn-text" href="general-construction.html">Read More</a>
-			    							</div> -->
+			    							<p class="services-txt">Non-Woven Geo Textile, PVC Membrane, PVC Rounder Disc and other materials are supplied which are used in Tunnel Lining & Provide Excellent Drainage of Water into the side ditches.</p>
 			    						</div>
 			    					</div>
 			    					<div class="normarl-text-area">
@@ -124,129 +121,17 @@
 			    								<img src="assets/images/services/main-home/main-icons/railair.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
-			    								<h3 class="title"><a href="#">Railway</a></h3>
+			    								<h3 class="title"><a href="#">Railways & Airports</a></h3>
 			    							</div>
-			    							<!-- <p class="services-txt">Our innovative Products and Services are designed and applied to give ever lasting foundation to every road, tunnel and highway project.</p> -->
+			    							<p class="services-txt">We offer mechanically stabilized and eco-friendly solutions to successfully build Railway and Airport construction projects.</p>
 			    						</div>
 			    					</div>
 			    					<div class="normarl-text-area">
 			    						<div class="services-titles">
-			    							<h3 class="title"><a href="#">Railway</a></h3>
+			    							<h3 class="title"><a href="#">Railways & Airports</a></h3>
 			    						</div>
 			    						<div class="icon-image">
 			    							<img src="assets/images/services/main-home/main-icons/railair.png" alt="Services">
-			    						</div>
-			    					</div>
-			    				</div>
-			    			</div>
-			    		</div>
-                        <div class="col-xl-4 col-md-6 mb-30">
-			    			<div class="services-item">
-			    				<div class="services-wrap">
-			    					<div class="services-image">
-			    						<img src="assets/images/services/main-home/main-img/river.jpeg" alt="Services">
-			    					</div>
-			    					<div class="services-content">
-			    						<div class="service-inner">
-			    							<div class="icon-top">
-			    								<img src="assets/images/services/main-home/main-icons/river.png" alt="Services">
-			    							</div>
-			    							<div class="services-titles">
-			    								<h3 class="title"><a href="#">Pond / Canal / River</a></h3>
-			    							</div>
-			    							<!-- <p class="services-txt">Our innovative Products and Services are designed and applied to give ever lasting foundation to every road, tunnel and highway project.</p> -->
-			    						</div>
-			    					</div>
-			    					<div class="normarl-text-area">
-			    						<div class="services-titles">
-			    							<h3 class="title"><a href="#">Pond / Canal / River</a></h3>
-			    						</div>
-			    						<div class="icon-image">
-			    							<img src="assets/images/services/main-home/main-icons/river.png" alt="Services">
-			    						</div>
-			    					</div>
-			    				</div>
-			    			</div>
-			    		</div>
-                        <div class="col-xl-4 col-md-6 mb-30">
-			    			<div class="services-item">
-			    				<div class="services-wrap">
-			    					<div class="services-image">
-			    						<img src="assets/images/services/main-home/main-img/slope.jpeg" alt="Services">
-			    					</div>
-			    					<div class="services-content">
-			    						<div class="service-inner">
-			    							<div class="icon-top">
-			    								<img src="assets/images/services/main-home/main-icons/slope.png" alt="Services">
-			    							</div>
-			    							<div class="services-titles">
-			    								<h3 class="title"><a href="#">Slope Protection</a></h3>
-			    							</div>
-			    							<!-- <p class="services-txt">Our innovative Products and Services are designed and applied to give ever lasting foundation to every road, tunnel and highway project.</p> -->
-			    						</div>
-			    					</div>
-			    					<div class="normarl-text-area">
-			    						<div class="services-titles">
-			    							<h3 class="title"><a href="#">Slope Protection</a></h3>
-			    						</div>
-			    						<div class="icon-image">
-			    							<img src="assets/images/services/main-home/main-icons/slope.png" alt="Services">
-			    						</div>
-			    					</div>
-			    				</div>
-			    			</div>
-			    		</div>
-                        <div class="col-xl-4 col-md-6 mb-30">
-			    			<div class="services-item">
-			    				<div class="services-wrap">
-			    					<div class="services-image">
-			    						<img src="assets/images/services/main-home/main-img/airport.jpeg" alt="Services">
-			    					</div>
-			    					<div class="services-content">
-			    						<div class="service-inner">
-			    							<div class="icon-top">
-			    								<img src="assets/images/services/main-home/main-icons/airport.png" alt="Services">
-			    							</div>
-			    							<div class="services-titles">
-			    								<h3 class="title"><a href="#">Airport / Runway</a></h3>
-			    							</div>
-			    							<!-- <p class="services-txt">Our innovative Products and Services are designed and applied to give ever lasting foundation to every road, tunnel and highway project.</p> -->
-			    						</div>
-			    					</div>
-			    					<div class="normarl-text-area">
-			    						<div class="services-titles">
-			    							<h3 class="title"><a href="#">Airport / Runway</a></h3>
-			    						</div>
-			    						<div class="icon-image">
-			    							<img src="assets/images/services/main-home/main-icons/airport.png" alt="Services">
-			    						</div>
-			    					</div>
-			    				</div>
-			    			</div>
-			    		</div>
-                        <div class="col-xl-4 col-md-6 mb-30">
-			    			<div class="services-item">
-			    				<div class="services-wrap">
-			    					<div class="services-image">
-			    						<img src="assets/images/services/main-home/main-img/rain.jpeg" alt="Services">
-			    					</div>
-			    					<div class="services-content">
-			    						<div class="service-inner">
-			    							<div class="icon-top">
-			    								<img src="assets/images/services/main-home/main-icons/rain.png" alt="Services">
-			    							</div>
-			    							<div class="services-titles">
-			    								<h3 class="title"><a href="#">Rainwater Harvesting</a></h3>
-			    							</div>
-			    							<!-- <p class="services-txt">Our innovative Products and Services are designed and applied to give ever lasting foundation to every road, tunnel and highway project.</p> -->
-			    						</div>
-			    					</div>
-			    					<div class="normarl-text-area">
-			    						<div class="services-titles">
-			    							<h3 class="title"><a href="#">Rainwater Harvesting</a></h3>
-			    						</div>
-			    						<div class="icon-image">
-			    							<img src="assets/images/services/main-home/main-icons/rain.png" alt="Services">
 			    						</div>
 			    					</div>
 			    				</div>
@@ -264,14 +149,14 @@
 			    								<img src="assets/images/services/main-home/main-icons/dock.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
-			    								<h3 class="title"><a href="#">Dockyard</a></h3>
+			    								<h3 class="title"><a href="#">Ports & Marines</a></h3>
 			    							</div>
-			    							<!-- <p class="services-txt">Our innovative Products and Services are designed and applied to give ever lasting foundation to every road, tunnel and highway project.</p> -->
+			    							<p class="services-txt">Indian ports handled 1.135 million Tons of Traffic in 2017-2018. Indian ports are rapidly growing & Non-Woven Geo Textiles supplied by Manas are widely used for Soil Stabilization to support heavy axle loads.</p>
 			    						</div>
 			    					</div>
 			    					<div class="normarl-text-area">
 			    						<div class="services-titles">
-			    							<h3 class="title"><a href="#">Dockyard</a></h3>
+			    							<h3 class="title"><a href="#">Ports & Marines</a></h3>
 			    						</div>
 			    						<div class="icon-image">
 			    							<img src="assets/images/services/main-home/main-icons/dock.png" alt="Services">
@@ -284,25 +169,25 @@
 			    			<div class="services-item">
 			    				<div class="services-wrap">
 			    					<div class="services-image">
-			    						<img src="assets/images/services/main-home/main-img/flood.png" alt="Services">
+			    						<img src="assets/images/services/main-home/main-img/landfill.jpeg" alt="Services">
 			    					</div>
 			    					<div class="services-content">
 			    						<div class="service-inner">
 			    							<div class="icon-top">
-			    								<img src="assets/images/services/main-home/main-icons/flood.png" alt="Services">
+			    								<img src="assets/images/services/main-home/main-icons/landfill.png" alt="Services">
 			    							</div>
 			    							<div class="services-titles">
-			    								<h3 class="title"><a href="#">Flood Protection</a></h3>
+			    								<h3 class="title"><a href="#">Landfills</a></h3>
 			    							</div>
-			    							<!-- <p class="services-txt">Our innovative Products and Services are designed and applied to give ever lasting foundation to every road, tunnel and highway project.</p> -->
+			    							<p class="services-txt">In the recent times, waste management has emerged as a key area to avoid contamination of water and soil. Our geo-synthetic products allow constructing landfills for keeping solid municipal wastes at a safe distance from humans.</p>
 			    						</div>
 			    					</div>
 			    					<div class="normarl-text-area">
 			    						<div class="services-titles">
-			    							<h3 class="title"><a href="#">Flood Protection</a></h3>
+			    							<h3 class="title"><a href="#">Landfills</a></h3>
 			    						</div>
 			    						<div class="icon-image">
-			    							<img src="assets/images/services/main-home/main-icons/flood.png" alt="Services">
+			    							<img src="assets/images/services/main-home/main-icons/landfill.png" alt="Services">
 			    						</div>
 			    					</div>
 			    				</div>

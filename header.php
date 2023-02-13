@@ -46,7 +46,6 @@
 								<div class="col-cell">
 									<div class="expand-btn-inner">
 										<ul>
-											<li class="btn-quote"><a class="quote-button" href="contact">Contact Us</a></li>
 											<li class="humburger">
 											    <a id="nav-expander" class="nav-expander bar" href="#">
 											        <div class="bar">

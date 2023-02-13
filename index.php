@@ -30,31 +30,30 @@
 			<?php include('header.php'); ?>
 
 			<!-- Slider Start -->
-			<div id="rs-slider" class="rs-slider rs-slider-style2 rs-slider-style3">
+			<div id="rs-slider" class="rs-slider rs-slider-style2 rs-slider-style4">
 			    <div class="bend niceties">
 			        <div id="nivoSlider" class="slides">
-			            <img src="assets/images/slider/style1/h2-1.jpg" alt="" title="#slide-1" />
-			            <img src="assets/images/slider/style1/h2-2.jpg" alt="" title="#slide-2" />
+			            <img src="assets/images/slider/style1/h3-1.jpg" alt="" title="#slide-1" />
+			            <img src="assets/images/slider/style1/h3-2.jpg" alt="" title="#slide-2" />
 			        </div>
 			        <!-- Slide 1 -->
 			        <div id="slide-1" class="slider-direction">
 			           <div class="container">
-			           		<div class="content-part">
+			           		<div class="content-part text-center">
 			           		    <h1 class="sl-title">
-			           		    	Welcome to
+								   Welcome to Tunnel Experts®
 			           		    </h1>
-			           		    <h2 class="small-title2"><span class="bdr-big">Tunnel</span> <span class="bdr-big">Experts®</span></h2>
-			           		    <p class="sl-desc">
-								   Keeping your operations on track		
-			           		    </p>
+								<span class="sl-subtitle">Keeping your operations on track</span>
 			           		</div>
 			           </div>
 			        </div>
 			        <!-- Slide 2 -->
 			        <div id="slide-2" class="slider-direction">
 			        	<div class="container">
-		        			<div class="content-part">
-		        			    <h2 class="small-title2">A leading and socially resource supplier of waterproofing & other construction materials.</h2>
+		        			<div class="content-part text-center">
+								<h1 class="sl-title">
+									A leading & socially resource supplier of waterproofing & other construction materials. 
+			           		    </h1>
 		        			</div>
 			        	</div>
 			        </div>

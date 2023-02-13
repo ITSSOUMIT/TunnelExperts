@@ -31,7 +31,7 @@
 			    <div class="container">
 			        <div class="breadcrumbs-inner">
 			            <h1 class="page-title">
-			               	Our Partners
+			               	Partners of success
 			            </h1>
 			            <ul class="breadcrumbs-area">
                            <li title="Go to konstruk">

@@ -943,7 +943,7 @@
         line-height: 70px;
     }
     .rs-slider.rs-slider-style2.rs-slider-style4 .container .content-part .sl-title {
-        font-size: 60px;
+        font-size: 40px;
         line-height: 60px;
         margin: 0px 0 40px;
     }
@@ -1140,7 +1140,7 @@
         width: 50px;
     }
     .rs-slider.rs-slider-style2.rs-slider-style4 .container .content-part .sl-title {
-        font-size: 40px;
+        font-size: 30px;
         line-height: 45px;
     }
     .rs-slider.rs-slider-style2.rs-slider-style3 .container .content-part .sl-title {
@@ -1423,7 +1423,7 @@
         line-height: 55px;
     }
     .rs-slider.rs-slider-style2.rs-slider-style9 .container .content-part .sl-subtitle {
-        font-size: 16px;
+        font-size: 24px;
         margin: 0px 0 12px;
     }
     .rs-slider.rs-slider-style2.rs-slider-style10 #nivoSlider img
@@ -1574,7 +1574,7 @@
     .rs-slider.rs-slider-style2.rs-slider-style6 .container .content-part .sl-desc,
     .rs-slider.rs-slider-style2.rs-slider-style5 .container .content-part .sl-subtitle,
     .rs-slider.rs-slider-style2 .container .content-part .sl-subtitle {
-        font-size: 15px;
+        font-size: 30px;
         line-height: 27px;
     }
     .rs-project.project-style5 .project-item .project-content .title, 

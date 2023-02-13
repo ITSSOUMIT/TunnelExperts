@@ -3,7 +3,7 @@
 <head>
 		<!-- meta tag -->
 		<meta charset="utf-8">
-		<title>Contact Us | Tunnel Experts</title>
+		<title>PVC Membrane | Tunnel Experts</title>
 		<?php include('stylesheet.php'); ?>
 		
 	</head>

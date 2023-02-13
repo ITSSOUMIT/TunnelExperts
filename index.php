@@ -67,12 +67,12 @@
 						<div class="col-lg-3">
 							<div class="services-box">
 								<div class="services-icon">
-									<a href="general-construction.html">
+									<a href="#">
 										<img class="dance_hover" src="assets/images/services/style2/iso.png" alt="Images">
 									</a>
 								</div>
 								<div class="services-content">
-									<h3 class="title"><a href="general-construction.html">ISO Certified Company</a></h3>
+									<h3 class="title"><a href="#">ISO Certified Company</a></h3>
 									<p class="services-txt">  
 										Tunnel Experts® is an ISO 9001:2015 certified company located in central INDIA with advantageous geographical location.
 									</p>
@@ -82,12 +82,12 @@
 						<div class="col-lg-3">
 							<div class="services-box services-yellow-box">
 								<div class="services-icon">
-									<a href="project-managment.html">
+									<a href="#">
 										<img class="dance_hover" src="assets/images/services/style2/quality.png" alt="Images">
 									</a>
 								</div>
 								<div class="services-content">
-									<h3 class="title"><a href="project-managment.html">Quality</a></h3>
+									<h3 class="title"><a href="#">Quality</a></h3>
 									<p class="services-txt">  
 										Tunnel Experts® products are mainly distinguished for its superior QUALITY along with efficient technical services.
 									</p>
@@ -97,12 +97,12 @@
 						<div class="col-lg-3">
 							<div class="services-box">
 								<div class="services-icon">
-									<a href="preconstruction">
+									<a href="#">
 										<img class="dance_hover" src="assets/images/services/style2/customer.png" alt="Images">
 									</a>
 								</div>
 								<div class="services-content">
-									<h3 class="title"><a href="preconstruction">100% Customer Satisfaction</a></h3>
+									<h3 class="title"><a href="#">100% Customer Satisfaction</a></h3>
 									<p class="services-txt">  
 										Tunnel Experts® serves with unmatched quality, dedicated work force in order to achieve 100% customer satisfaction.
 									</p>
@@ -112,12 +112,12 @@
 						<div class="col-lg-3">
 							<div class="services-box services-yellow-box">
 								<div class="services-icon">
-									<a href="preconstruction">
+									<a href="#">
 										<img class="dance_hover" src="assets/images/services/style2/360.png" alt="Images">
 									</a>
 								</div>
 								<div class="services-content">
-									<h3 class="title"><a href="preconstruction">Works on 360 Degree</a></h3>
+									<h3 class="title"><a href="#">Works on 360 Degree</a></h3>
 									<p class="services-txt">  
 										Leverage agile frameworks to provide a robust synopsis for high 
 										level overviews iterative approaches to corporate.

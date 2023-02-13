@@ -6,6 +6,7 @@
 						<div class="col-lg-3 pr-20 md-pr-15 md-mb-20">
 							<div class="footer-logo mb-51 md-mb-30">
 								<a href="index-2.html"><img src="assets/images/iso-logo.png" alt=""></a>
+								<a href="index-2.html"><img src="assets/images/ce-logo.png" alt=""></a>
 							</div>
 							<ul class="address-widget">
                                 <li>

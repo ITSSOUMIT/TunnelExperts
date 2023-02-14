@@ -49,7 +49,7 @@
 			    <div class="rs-contact pt-120 md-pt-80">
 			        <div class="container">
 			            <div class="row">
-			                <div class="col-lg-4 col-md-6 md-mb-30">
+			                <div class="col-lg-3 col-md-6 md-mb-30">
 			                   <div class="contact-box">
 			                       <div class="contact-icon">
 			                           <img src="assets/images/contact/style1/icons/location.png" alt="images">
@@ -61,7 +61,7 @@
 			                       </div>
 			                   </div>
 			                </div>
-			                <div class="col-lg-4 col-md-6 sm-mb-30">
+			                <div class="col-lg-3 col-md-6 sm-mb-30">
 			                   <div class="contact-box">
 			                       <div class="contact-icon">
 			                           <img src="assets/images/contact/style1/icons/email.png" alt="images">
@@ -72,14 +72,25 @@
 			                       </div>
 			                   </div>
 			                </div>
-			                <div class="col-lg-4 col-md-6">
+			                <div class="col-lg-3 col-md-6">
 			                   <div class="contact-box">
 			                       <div class="contact-icon">
 			                           <img src="assets/images/contact/style1/icons/call.png" alt="images">
 			                       </div>
 			                       <div class="content-text">
 			                           <h4 class="title"><a href="#">Call us</a></h4>
-			                           <span><a href="tel:+919877049877">+91 98770 49877</a></span><br>
+			                           <span><a href="tel:+919877049877">+91 9877 04 9877</a></span><br>
+			                       </div>
+			                   </div>
+			                </div>
+							<div class="col-lg-3 col-md-6">
+			                   <div class="contact-box">
+			                       <div class="contact-icon">
+			                           <img src="assets/images/contact/style1/icons/whatsapp.png" alt="images">
+			                       </div>
+			                       <div class="content-text">
+			                           <h4 class="title"><a href="#">Whatsapp us</a></h4>
+			                           <span><a href="https://wa.me/919877049877">+91 9877 04 9877</a></span><br>
 			                       </div>
 			                   </div>
 			                </div>

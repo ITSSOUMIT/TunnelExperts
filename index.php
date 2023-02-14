@@ -52,7 +52,7 @@
 			        	<div class="container">
 		        			<div class="content-part text-center">
 								<h1 class="sl-title">
-									A leading & socially resource supplier of waterproofing & other construction materials. 
+									A leading and socially resource supplier of waterproofing & other construction materials. 
 			           		    </h1>
 		        			</div>
 			        	</div>

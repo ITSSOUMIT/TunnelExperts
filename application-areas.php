@@ -169,7 +169,7 @@
 			    			<div class="services-item">
 			    				<div class="services-wrap">
 			    					<div class="services-image">
-			    						<img src="assets/images/services/main-home/main-img/landfill.jpeg" alt="Services">
+			    						<img src="assets/images/services/main-home/main-img/landfill.png" alt="Services">
 			    					</div>
 			    					<div class="services-content">
 			    						<div class="service-inner">

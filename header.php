@@ -24,7 +24,7 @@
 														<a href="index">Home</a>
 													</li>
 													<li id="head-about">
-														<a href="about">About</a>
+														<a href="about-us">About Us</a>
 													</li>
 													<li id="head-products">
 														<a href="our-products">Products</a>
@@ -84,7 +84,7 @@
                                 <a href="index">Home</a>
                             </li>
                             <li id="head-about">
-                                <a href="about">About</a>
+                                <a href="about-us">About Us</a>
                             </li>
                             <li id="head-products">
                                 <a href="our-products">Products</a>

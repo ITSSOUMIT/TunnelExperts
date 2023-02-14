@@ -37,7 +37,7 @@
                            <li title="Go to konstruk">
                                <a class="active" href="index">Home</a>
                            </li>
-                          <li>About</li>
+                          <li>About Us</li>
                        </ul>
 			        </div>
 			    </div>

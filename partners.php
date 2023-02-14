@@ -47,70 +47,71 @@
 			<div class="rs-gallery gallery-style1 pt-120 pb-120 md-pt-80 md-pb-80">
 			   	<div class="container">
 			   		<div class="row">
-			   		    <div class="col-lg-3 col-md-6 mb-30">
+			   		    <div class="col-lg-2 col-md-3 mb-30">
 			   		        <div class="gallery-item">
 			   		            <div class="gallery-icon">
 			   		                <a class="image-popup" href="assets/images/project/style1/nhidcl-new.jpg"><img src="assets/images/project/style1/nhidcl-new.jpg" alt=""></a>
 			   		            </div>
 			   		        </div>
 			   		    </div>
-                        <div class="col-lg-3 col-md-6 mb-30">
+                        <div class="col-lg-2 col-md-3 mb-30">
 			   		        <div class="gallery-item">
 			   		            <div class="gallery-icon">
 			   		                <a class="image-popup" href="assets/images/project/style1/nhai-new.jpg"><img src="assets/images/project/style1/nhai-new.jpg" alt=""></a>
 			   		            </div>
 			   		        </div>
 			   		    </div>
-                        <div class="col-lg-3 col-md-6 mb-30">
+                        <div class="col-lg-2 col-md-3 mb-30">
 			   		        <div class="gallery-item">
 			   		            <div class="gallery-icon">
 			   		                <a class="image-popup" href="assets/images/project/style1/bro-new.jpg"><img src="assets/images/project/style1/bro-new.jpg" alt=""></a>
 			   		            </div>
 			   		        </div>
 			   		    </div>
-                        <div class="col-lg-3 col-md-6 mb-30">
+                        <div class="col-lg-2 col-md-3 mb-30">
 			   		        <div class="gallery-item">
 			   		            <div class="gallery-icon">
 			   		                <a class="image-popup" href="assets/images/project/style1/ircon-new.jpg"><img src="assets/images/project/style1/ircon-new.jpg" alt=""></a>
 			   		            </div>
 			   		        </div>
 			   		    </div>
-                        <div class="col-lg-3 col-md-6 mb-30">
+                        <div class="col-lg-2 col-md-3 mb-30">
 			   		        <div class="gallery-item">
 			   		            <div class="gallery-icon">
 			   		                <a class="image-popup" href="assets/images/project/style1/hcc-new.jpg"><img src="assets/images/project/style1/hcc-new.jpg" alt=""></a>
 			   		            </div>
 			   		        </div>
 			   		    </div>
-                        <div class="col-lg-3 col-md-6 mb-30">
+                        <div class="col-lg-2 col-md-3 mb-30">
 			   		        <div class="gallery-item">
 			   		            <div class="gallery-icon">
 			   		                <a class="image-popup" href="assets/images/project/style1/ilfs-new.jpg"><img src="assets/images/project/style1/ilfs-new.jpg" alt=""></a>
 			   		            </div>
 			   		        </div>
 			   		    </div>
-                        <div class="col-lg-3 col-md-6 mb-30">
+						<div class="col-lg-2 col-md-3 mb-30"></div>
+                        <div class="col-lg-2 col-md-3 mb-30">
 			   		        <div class="gallery-item">
 			   		            <div class="gallery-icon">
 			   		                <a class="image-popup" href="assets/images/project/style1/ncc-new.jpg"><img src="assets/images/project/style1/ncc-new.jpg" alt=""></a>
 			   		            </div>
 			   		        </div>
 			   		    </div>
-                        <div class="col-lg-3 col-md-6 mb-30">
+                        <div class="col-lg-2 col-md-3 mb-30">
 			   		        <div class="gallery-item">
 			   		            <div class="gallery-icon">
 			   		                <a class="image-popup" href="assets/images/project/style1/nhpc-new.jpg"><img src="assets/images/project/style1/nhpc-new.jpg" alt=""></a>
 			   		            </div>
 			   		        </div>
 			   		    </div>
-                        <div class="col-lg-3 col-md-6 mb-30">
+                        <div class="col-lg-2 col-md-3 mb-30">
 			   		        <div class="gallery-item">
 			   		            <div class="gallery-icon">
 			   		                <a class="image-popup" href="assets/images/project/style1/pnc-new.jpg"><img src="assets/images/project/style1/pnc-new.jpg" alt=""></a>
 			   		            </div>
 			   		        </div>
 			   		    </div>
-                        <div class="col-lg-3 col-md-6 mb-30">
+                        <div class="col-lg-2 col-md-3 mb-30">
 			   		        <div class="gallery-item">
 			   		            <div class="gallery-icon">
 			   		                <a class="image-popup" href="assets/images/project/style1/lt-new.jpg"><img src="assets/images/project/style1/lt-new.jpg" alt=""></a>

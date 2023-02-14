@@ -49,7 +49,7 @@
 					<div class="row y-middle">
 						<div class="col-lg-6 md-mb-50">
 							<div class="images-part">
-								<img src="assets/images/about/style1/about.png" alt="About">
+								<img src="assets/images/about/style1/about-1.png" alt="About">
 							</div>
 						</div>
 						<div class="col-lg-6 pl-50 md-pl-15">

@@ -33,8 +33,8 @@
 			<div id="rs-slider" class="rs-slider rs-slider-style2 rs-slider-style4">
 			    <div class="bend niceties">
 			        <div id="nivoSlider" class="slides">
-			            <img src="assets/images/slider/style1/h3-1.jpg" alt="" title="#slide-1" />
-			            <img src="assets/images/slider/style1/h3-2.jpg" alt="" title="#slide-2" />
+			            <img src="assets/images/slider/style1/bgg-1.jpg" alt="" title="#slide-1" />
+			            <img src="assets/images/slider/style1/bgg-2.jpg" alt="" title="#slide-2" />
 			        </div>
 			        <!-- Slide 1 -->
 			        <div id="slide-1" class="slider-direction">

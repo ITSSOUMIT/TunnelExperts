@@ -50,17 +50,18 @@
             <!-- Slider Section Start -->
 			<div class="rs-slider case-slider-style3 pt-120 md-pt-80">
 			    <div class="container">
-			        <div class="rs-carousel owl-carousel" data-loop="true" data-items="1" data-margin="0" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="1" data-ipad-device-nav="true" data-ipad-device-dots="false" data-ipad-device2="1" data-ipad-device-nav2="true" data-ipad-device-dots2="false" data-md-device="1" data-md-device-nav="true" data-md-device-dots="false">
-			        	<div class="slider-img">
-			        		<img src="assets/images/slider/style3/sl1.jpg" alt="Slider">
-			        	</div>
-			        	<div class="slider-img">
-			        		<img src="assets/images/slider/style3/sl2.jpg" alt="Slider">
-			        	</div>
-			        	<div class="slider-img">
-			        		<img src="assets/images/slider/style3/sl3.jpg" alt="Slider">
-			        	</div>
-			        </div>
+			        <div class="row">
+						<div class="col-6">
+							<div class="slider-img">
+								<img src="assets/images/project/style1/concrete-steel-fiber.jpg" alt="Slider">
+							</div>	
+						</div>
+						<div class="col-6">
+							<div class="slider-img">
+								<img src="assets/images/project/style1/fiber-1.jpg" alt="Slider">
+							</div>	
+						</div>
+					</div>
 			    </div>
 			</div>
 			<!-- Slider Section End -->

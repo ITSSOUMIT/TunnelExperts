@@ -3,7 +3,7 @@
 <head>
 		<!-- meta tag -->
 		<meta charset="utf-8">
-		<title>Drilling Bits | Tunnel Experts</title>
+		<title>Geogrids | Tunnel Experts</title>
 		<?php include('stylesheet.php'); ?>
 		
 	</head>
@@ -31,7 +31,7 @@
 			    <div class="container">
 			        <div class="breadcrumbs-inner">
 			            <h1 class="page-title">
-			               	Drilling Bits
+							Geogrids
 			            </h1>
 			            <ul class="breadcrumbs-area">
                             <li title="Go to konstruk">
@@ -40,7 +40,7 @@
                             <li title="Go to konstruk">
                                 <a class="active" href="our-products">Products</a>
                             </li>
-                            <li>Drilling Bits</li>
+                            <li>Geogrids</li>
                        </ul>
 			        </div>
 			    </div>

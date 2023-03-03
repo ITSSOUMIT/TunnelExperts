@@ -77,6 +77,21 @@
 							    </div>
 							</div>
 						</div>
+						<div class="col-lg-4 col-md-6 mb-30">
+							<div class="project-item">
+							    <div class="project-img">
+							        <img src="assets/images/project/style1/geogrid.jpg" alt="images">
+							    </div>
+							    <div class="project-content"> 
+							        <div class="project-inner">
+        	    						<h3 class="title"><a href="product-geogrid">Geogrids</a></h3>
+        		    					<div class="project-btn">
+        									<a class="btn-text" href="product-geogrid"><i class="fa flaticon-right-arrow"></i></a>
+        								</div>
+							        </div>
+							    </div>
+							</div>
+						</div>
                         <div class="col-lg-4 col-md-6 mb-30">
 							<div class="project-item">
 							    <div class="project-img">
